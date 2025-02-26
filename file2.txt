@@ -1,1 +1,1 @@
-Interesting file
+Changed information in file2
